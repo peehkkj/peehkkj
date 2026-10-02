@@ -1,6 +1,6 @@
-# Pedro Lucas Parente de Sousa
+# Pedro Lucas
 
-Hello, my name is Pedro Lucas Parente de Sousa, I'm a Brazilian IT student focused on web development, technical support and technology. I'm interested in building practical solutions and solving real-world problems.
+Hello, my name is Pedro Lucas, I'm a Brazilian IT student focused on web development, technical support and technology. I'm interested in building practical solutions and solving real-world problems.
 
 I'm currently studying Information Technology at Senac São Paulo and have experience with web development, APIs, databases, automation, hardware and robotics.
 
